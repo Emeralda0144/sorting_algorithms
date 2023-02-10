@@ -1,6 +1,6 @@
 #0x1B. C - Sorting algorithms & Big O
 
-(https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/248/willy-wonka.png)
+![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/248/willy-wonka.png)
 
 ## Background Context
 This project is meant to be done by groups of two students. Each group of two should [pair program](https://en.wikipedia.org/wiki/Pair_programming) for at least the mandatory part.
@@ -206,7 +206,7 @@ alex@/tmp/sort$
 ```
 
 #### 1. Insertion sort
-(https://youtu.be/ROalU379l3U)
+![Insertion sort](https://youtu.be/ROalU379l3U)
 
 Write a function that sorts a doubly linked list of integers in ascending order using the [Insertion sort](https://en.wikipedia.org/wiki/Insertion_sort) algorithm
 
@@ -309,7 +309,7 @@ alex@/tmp/sort$
 ```
 
 #### 2. Selection sort
-(https://youtu.be/Ns4TPTC8whw)
+![Selection sort](https://youtu.be/Ns4TPTC8whw)
 
 Write a function that sorts an array of integers in ascending order using the [Selection sort](https://en.wikipedia.org/wiki/Selection_sort) algorithm
 
@@ -362,7 +362,7 @@ alex@/tmp/sort$
 ```
 
 #### 3. Quick sort
-(https://youtu.be/ywWBy6J5gz8)
+![Quick sort](https://youtu.be/ywWBy6J5gz8)
 
 Write a function that sorts an array of integers in ascending order using the [Quick sort](https://en.wikipedia.org/wiki/Quicksort) algorithm
 
@@ -1017,7 +1017,7 @@ alex@/tmp/sort$
 ```
 
 #### 12. Dealer
-(https://youtu.be/_HJlGWXzlLA)
+![Dealer](https://youtu.be/_HJlGWXzlLA)
 
 Write a function that sorts a deck of cards.
 
